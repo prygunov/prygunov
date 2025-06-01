@@ -11,6 +11,6 @@ I'm the creator of:
 💼 Currently, I work as a backend developer at one of the leading Russian big tech companies — T-Bank, where we build high-load fintech services with care and precision.
 
 💬 Let's connect
-- Telegram (personal): [t.me/prygunovx]
-- Telegram (project updates & dev): [t.me/pda_stalkers]
+- Telegram (personal): [t.me/prygunovx](t.me/prygunovx)
+- Telegram (project updates & dev): [t.me/pda_stalkers](t.me/pda_stalkers)
 Always open to interesting conversations😉
