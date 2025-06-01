@@ -5,7 +5,9 @@ I'm a Java/Kotlin backend developer passionate about clean architecture, distrib
 🚀 I'm the creator of:
 
 🎮 Stalker PDA – an immersive S.T.A.L.K.E.R.-inspired Android app. A little love letter to the Zone.
+
 🌐 artux.net – my personal playground for experiments and ideas.
+
 💼 Currently, I work as a backend developer at one of the leading Russian big tech companies — T-Bank, where we build high-load fintech services with care and precision.
 
 💬 Let's connect
