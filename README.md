@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Maksim!
 
-<!--
-**prygunov/prygunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java/Kotlin backend developer passionate about clean architecture, distributed systems, and performance-driven code. I love solving complex problems and building systems that scale.
 
-Here are some ideas to get you started:
+🚀 I'm the creator of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Stalker PDA – an immersive S.T.A.L.K.E.R.-inspired Android app. A little love letter to the Zone.
+🌐 artux.net – my personal playground for experiments and ideas.
+💼 Currently, I work as a backend developer at one of the leading Russian big tech companies — T-Bank, where we build high-load fintech services with care and precision.
+
+💬 Let's connect
+Telegram (personal): t.me/prygunovx
+Telegram (project updates & dev): t.me/pda_stalkers
+Always open to interesting conversations😉
