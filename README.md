@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Maksim!
+## 👋 Hi there, I'm Maxim!
 
 I'm a Java/Kotlin backend developer passionate about clean architecture, distributed systems, and performance-driven code. I love solving complex problems and building systems that scale 🚀
 
@@ -8,7 +8,7 @@ I'm the creator of:
 
 - 🌐 [artux.net](https://artux.net) – my personal playground for experiments and ideas.
 
-💼 Currently, I work as a backend developer at one of the leading Russian big tech companies — T-Bank, where we build high-load fintech services with care and precision.
+💼 Currently, I work as a backend developer at one of the leading Russian big tech company, where we build high-load fintech services with care and precision.
 
 💬 Let's connect
 - Telegram (personal): [t.me/prygunovx](https://t.me/prygunovx)
